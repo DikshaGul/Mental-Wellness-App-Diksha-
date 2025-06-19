@@ -1,0 +1,10 @@
+streamlit
+openai
+spotipy
+emoji
+matplotlib
+pandas
+fpdf
+gtts
+transformers
+textblob
